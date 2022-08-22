@@ -1,3 +1,6 @@
 #Demo App 
 
-Description.
+Description!
+
+This is a basic calculator by python 
+It does basic operations
